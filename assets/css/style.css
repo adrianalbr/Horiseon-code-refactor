@@ -7,13 +7,14 @@
 body {
     background-color: #d9dcd6;
 }
+/* header styling for header and nav bar */
 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
-    /* margin-right: 20px; */
+
 }
 
 .header h1 {
@@ -53,7 +54,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* Styling for main photo with people colaborating */
 .hero {
     height: 800px;
     width: 100%;
@@ -138,7 +139,7 @@ p {
     max-width: 150px;
 }
 
-.content_SEO {
+.search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
