@@ -6,6 +6,7 @@ The objective of this project is to review the website created for Horiseon Digi
 - Accessible alt attributes to images.
 - Title tag updated to a more descriptive title.
 - Fixed broken link to the search engine optimization section
+- added comments to html and css
 - Consolidated CSS where needed
 
 Creation:
@@ -15,7 +16,8 @@ Cloned repo
 And started to work
 
 Updates:
-Implemented changes starting with semantic elements, followed by CSS consolidation, then title review, and broken link…with a lot of debugging in between
+Implemented changes starting with semantic elements, followed by CSS consolidation, then title , and broken link…with a lot of debugging in between
+added comments on both html and css
 Committed and pushed several times.
 
 Deployment:
