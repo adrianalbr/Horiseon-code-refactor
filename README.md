@@ -32,3 +32,5 @@ To view the new and improved site follow this link - https://adrianalbr.github.i
 </p> -->
 
 ![Horiseonpage](./assets/images/Screen-1.png)
+
+copyright (c) 2020 Adriana Bonilla-Ramirez
