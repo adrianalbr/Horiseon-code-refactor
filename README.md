@@ -28,4 +28,4 @@ Waited a few minutes and the site was published
 To view the new and improved site follow this link - https://adrianalbr.github.io/Horiseon-code-refactor/
 
 
-![alt text](screen.jpeg)
+![alt text](screen 1.png)
