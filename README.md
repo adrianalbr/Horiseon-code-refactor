@@ -27,5 +27,8 @@ Waited a few minutes and the site was published
 
 To view the new and improved site follow this link - https://adrianalbr.github.io/Horiseon-code-refactor/
 
+<!-- <p align="center">
+  <img alt=“Screen-1 src="./assets/images/screen-1.png">
+</p> -->
 
-  <img alt="Screen-1" src="./assets/images/screen-1.png">
+![Horiseonpage](./assets/images/Screen-1.png)
